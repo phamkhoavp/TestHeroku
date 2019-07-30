@@ -3,7 +3,7 @@
 	$port = "8889";
 	$username = "phamkhoavp";
 	$password = "phamkhoa391999";
-	$dbname = "gwcourses";
+	$dbname = "gwcourse";
 
 	
 	$conn = new mysqli($servername, $username, 
